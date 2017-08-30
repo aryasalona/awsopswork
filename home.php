@@ -1,6 +1,6 @@
 <html>
 <head>
-<title> This is second page in php>
+  <title> This is second page in php </title>
 </head>
 <body>
 <?php
